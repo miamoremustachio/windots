@@ -32,5 +32,7 @@
     "workbench.layoutControl.enabled": false,
     "terminal.integrated.sendKeybindingsToShell": true,
     "cSpell.diagnosticLevel": "Hint",
-    "workbench.secondarySideBar.defaultVisibility": "hidden"
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.commandCenter.enabled": false,
+    "chat.disableAIFeatures": true
 }
