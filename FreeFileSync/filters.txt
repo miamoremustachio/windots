@@ -1,0 +1,37 @@
+# Include:
+*
+
+# Exclude:
+\System Volume Information\
+\$Recycle.Bin\
+\RECYCLE?\
+\Recovery\
+*\thumbs.db
+*\desktop.ini
+\.temp
+\.vscode
+\AppData
+\Application Data
+\Contacts
+\Cookies
+\Desktop
+\Documents
+\Downloads
+\Favorites
+\Links
+\Local Settings
+\My Documents
+\NetHood
+\PrintHood
+\Recent
+\Saved Games
+\Searches
+\SendTo
+\Start Menu
+\Templates
+\Torrents
+\windots
+\.gitconfig
+\.lesshst
+\NTUSER.DAT*
+\ntuser*
