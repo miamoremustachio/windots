@@ -8,6 +8,8 @@
 \Recovery\
 *\thumbs.db
 *\desktop.ini
+\.gitconfig
+\.lesshst
 \.temp
 \.vscode
 \AppData
@@ -15,13 +17,16 @@
 \Contacts
 \Cookies
 \Desktop
-\Documents
+\Documents\My*
 \Downloads
 \Favorites
+\Kisunka
 \Links
 \Local Settings
 \My Documents
 \NetHood
+\ntuser*
+\NTUSER.DAT*
 \PrintHood
 \Recent
 \Saved Games
@@ -31,7 +36,3 @@
 \Templates
 \Torrents
 \windots
-\.gitconfig
-\.lesshst
-\NTUSER.DAT*
-\ntuser*
